@@ -33,9 +33,8 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <ul id="lista">
-                        <li> Documentação </li>
-                        <li> <a href="../api/publicacao/artigos" style="color:black;"> Json </a> </li>
-                        <li> <a href="inserir.php" style="color:black;"> Inserir </a> </li>
+                        <li> <a href="https://github.com/otaviosilva22/php-api-rest" style="color:black;"> Documentação </li>
+                        <li> <a href="../api/estoque/produto" style="color:black;"> Json </a> </li>
                     </ul>
                 </div>
             </div>
