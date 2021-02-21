@@ -12,7 +12,7 @@ Simples exemplo de criação e consumo de API REST com PHP.
 
 <h2> Descrição dos arquivos </h2>
 <ul>
-  <li><b>dbconfig/dbconfig.php</b> - Configurações do banco MySQL</li>
+  <li><b>dbconfig/dbconfig.php</b> - Configurações do banco MySQL;</li>
   <li><b>api/index.php</b> - Retorna JSON;</li>
   <li><b>api/.htaccess</b> - Arquivo de configuração Apache;</li>
   <li><b>api/api.php</b> - Consultas;</li>
