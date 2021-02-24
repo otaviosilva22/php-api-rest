@@ -10,7 +10,7 @@ Simples exemplo de criação e consumo de API REST com PHP.
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://devdocs.io/css/)
 
-<h2> Descrição dos arquivos </h2>
+<h2> Descrição dos Arquivos </h2>
 <ul>
   <li><b>dbconfig/dbconfig.php</b> - Configurações do banco MySQL;</li>
   <li><b>api/index.php</b> - Retorna JSON;</li>
