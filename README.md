@@ -10,18 +10,6 @@ Simples exemplo de criação e consumo de API REST com PHP.
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://devdocs.io/css/)
 
-<h2> Descrição dos Arquivos </h2>
-<ul>
-  <li><b>dbconfig/dbconfig.php</b> - Configurações do banco MySQL;</li>
-  <li><b>api/index.php</b> - Retorna JSON;</li>
-  <li><b>api/.htaccess</b> - Arquivo de configuração Apache;</li>
-  <li><b>api/api.php</b> - Consultas;</li>
-  <li><b>public/home.php</b> - Página inicial;</li>
-  <li><b>public/estilo/estilo.css</b> - Estilização de página;</li>
-  <li><b>funcoes/listaProduto.php</b> - Função para listagem de produtos.</li>
-</ul>
-
-
 <h2> SQL </h2>
 
 ```
@@ -38,9 +26,9 @@ CREATE TABLE `produto` (
 
 <h2> API </h2>
 <ul>
-  <li><b>Consultas Gerais</b></li>
+  <li><b>Consultas Gerais:</b></li>
   http://localhost/php-api/api/estoque/produto
-  <li><b>Consultas Específicas</b></li>
+  <li><b>Consultas Específicas:</b></li>
   http://localhost/php-api/api/estoque/read/NomeProduto
 </ul>
 
