@@ -1,4 +1,4 @@
-# Criação e Consumo de API REST com PHP
+# Criação e consumo de API REST com PHP
 
 Simples exemplo de criação e consumo de API REST com PHP.
 
